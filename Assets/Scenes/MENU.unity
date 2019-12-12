@@ -1797,7 +1797,7 @@ MonoBehaviour:
   BotaoVoltar: {fileID: 749907948}
   BotaoSalvarPref: {fileID: 1557483472}
   textoVol: {fileID: 2029191367}
-  nomeCenaJogo: Untitled
+  nomeCenaJogo: NOME DA CENA
 --- !u!1 &857312049
 GameObject:
   m_ObjectHideFlags: 0
