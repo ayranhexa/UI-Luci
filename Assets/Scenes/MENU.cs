@@ -110,6 +110,7 @@ public class MENU : MonoBehaviour {
         BotaoSair.onClick.AddListener(() => Sair());
         BotaoVoltar.onClick.AddListener(() => Opcoes(false));
         BotaoSalvarPref.onClick.AddListener(() => SalvarPreferencias());
+
     }
     //=========VOIDS DE CHECAGEM==========//
     private void ChecarResolucoes() {
